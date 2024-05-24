@@ -22,6 +22,8 @@ NGINX - remove default config file
 
 ### Memcached and RabbitMQ do not need any config changes
 
+Set env variables
+
 ### Create Docker Compose file :
 Services:
   -app
